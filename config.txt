@@ -25,5 +25,5 @@
 # 金句中文，如果为空，默认会读取金山的每日金句
 "note_ch": "沧桑轮回，爱却长生不改",
 # 金句英文
-"note_en": "Love alters not with his brief hours and weeks"Love alters not with his brief hours and weeks"
+"note_en": "Love alters not with his brief hours and weeks"
 }
